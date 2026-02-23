@@ -217,6 +217,3 @@ This project showcases how Functional Programming principles and Clojure’s con
 By combining immutability, pure functions, STM, and agent-based concurrency, the system successfully avoids common concurrency pitfalls such as race conditions and deadlocks, while maintaining clean and maintainable architecture.
 
 ---
-
-```
-
